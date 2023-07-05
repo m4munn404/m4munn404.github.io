@@ -1,3 +1,153 @@
 body {
 	font-family: "Open Sans", sans-serif;
 }
+.banner-container {
+	background-color: #0f0826;
+}
+.banner-column {
+	background-color: #251648;
+	border-radius: 10px;
+	border: 2px solid white;
+	box-shadow: 2px 2px 15px white;
+}
+.pic-container {
+	background-color: #251648;
+	border-radius: 30px;
+	height: 350px !important;
+	width: 350px !important;
+	margin: auto;
+	align-items: center;
+	border: 2px solid #6d10f3;
+	box-shadow: 2px 2px 15px #6d10f3;
+	display: flex;
+}
+h1 {
+	font-weight: 1000 !important;
+	letter-spacing: 5px;
+	cursor: pointer;
+}
+h3 {
+	cursor: pointer;
+}
+h1 span {
+	transition: 0.2s;
+}
+.l1:hover {
+	margin-right: 15px;
+	font-size: 3em !important;
+}
+.l2:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l3:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l4:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l5:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l6:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l7:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l8:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l9:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l10:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l12:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l11:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+.l13:hover {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-size: 3em !important;
+}
+
+.navbar-container {
+	background-color: #6d10f3 !important;
+	font-weight: bolder;
+	top: 0;
+	position: sticky;
+	z-index: 2;
+}
+.about-container {
+	background-color: #0f0826 !important;
+}
+.about {
+	text-align: left;
+}
+img {
+	height: 300px !important;
+	width: 300px !important;
+	margin: auto !important;
+}
+.education-container {
+	background-color: #0f0826 !important;
+	color: white;
+	font-weight: bolder;
+}
+.circle {
+	background-color: #380b7e;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+}
+.card-body {
+	text-align: left;
+}
+.footer {
+	background-color: #2bb3dd;
+}
+p {
+	text-align: center;
+}
+h5 {
+	text-align: center;
+}
+.icon-circle {
+	background-color: white;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	display: inline-block;
+	font-size: 40px;
+	text-align: center;
+	color: #2bb3dd;
+}
+.icon-circle:hover {
+	background-color: #474d5d;
+}
